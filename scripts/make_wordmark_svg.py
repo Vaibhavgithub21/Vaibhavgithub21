@@ -16,8 +16,8 @@ def generate_wordmark_svg(output_path="wordmark.svg"):
     
     text_lines = ""
     for i, line in enumerate(ascii_banner):
-        y = 125 + (i * line_height)
-        text_lines += f"<text x=\"18\" y=\"{y}\" class=\"ascii\">{line}</text>\n"
+        y = 170 + (i * line_height)
+        text_lines += f"<text x=\"245\" y=\"{y}\" class=\"ascii\" text-anchor=\"middle\">{line}</text>\n"
 
     svg = f"""<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 {width} {height}" width="{width}" height="{height}">
   <style>
@@ -30,14 +30,14 @@ def generate_wordmark_svg(output_path="wordmark.svg"):
   <circle cx="50" cy="18" r="5" fill="#27c93f" />
   <text x="245" y="22" class="title" text-anchor="middle">vaibhav@github: ~ $ ./wordmark.sh --3d</text>
   <line x1="0" y1="36" x2="{width}" y2="36" stroke="#21262d" stroke-width="1" />
-  <g transform="translate(0, 30)">
+  <g>
     {text_lines}
   </g>
 </svg>"""
 
     with open(output_path, "w") as f:
         f.write(svg)
-    print(f"Generated corrected wordmark SVG for VAIBHAV at {output_path}")
+    print(f"Generated centered wordmark SVG for VAIBHAV at {output_path}")
 
 if __name__ == "__main__":
     generate_wordmark_svg()
