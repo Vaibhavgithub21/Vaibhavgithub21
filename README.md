@@ -6,11 +6,6 @@
 <br><br>
 
 <h3><code>vaibhav@github ~ $ whoami</code></h3>
-<table>
-  <tr>
-    <td valign="top"><img src="./avi-ascii.svg" width="370" /></td>
-    <td valign="top"><img src="./info-card.svg?v=2" width="490" /></td>
-  </tr>
-</table>
+<img src="./avi-ascii.svg" width="370" />
 
 </div>
