@@ -1,44 +1,20 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 490 280" width="490" height="280">
-  <style>
-    .text { font-family: ui-monospace, SFMono-Regular, SF Mono, Menlo, Consolas, Liberation Mono, monospace; font-size: 13px; fill: #c9d1d9; }
-    .key { fill: #58a6ff; font-weight: 600; }
-    .title { fill: #7ee787; font-weight: 700; }
-    .separator { fill: #484f58; }
-    @keyframes fadeIn {
-      from { opacity: 0; }
-      to { opacity: 1; }
-    }
-  </style>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 490 250" width="490" height="250">
   <rect width="100%" height="100%" fill="#0d1117" rx="6" stroke="#30363d" />
-  <text class="text title" x="20" y="30">vaibhav@github</text>
-  <text class="text separator" x="20" y="42">-----------------------------------</text>
+  <text font-family="monospace" font-size="13" font-weight="bold" fill="#7ee787" x="20" y="30">vaibhav@github</text>
+  <text font-family="monospace" font-size="13" fill="#484f58" x="20" y="42">-----------------------------------</text>
   
-    <g style="animation: fadeIn 0.4s ease-in-out 0.20s forwards; opacity: 0;">
-      <text class="text key" x="20" y="65">User:</text>
-      <text class="text" x="110" y="65">Vaibhavgithub21</text>
-    </g>
-    <g style="animation: fadeIn 0.4s ease-in-out 0.30s forwards; opacity: 0;">
-      <text class="text key" x="20" y="89">OS:</text>
-      <text class="text" x="110" y="89">GitHub Profile OS x86_64</text>
-    </g>
-    <g style="animation: fadeIn 0.4s ease-in-out 0.40s forwards; opacity: 0;">
-      <text class="text key" x="20" y="113">Host:</text>
-      <text class="text" x="110" y="113">Developer Workspace</text>
-    </g>
-    <g style="animation: fadeIn 0.4s ease-in-out 0.50s forwards; opacity: 0;">
-      <text class="text key" x="20" y="137">Shell:</text>
-      <text class="text" x="110" y="137">zsh 5.8</text>
-    </g>
-    <g style="animation: fadeIn 0.4s ease-in-out 0.60s forwards; opacity: 0;">
-      <text class="text key" x="20" y="161">Stack:</text>
-      <text class="text" x="110" y="161">Python, JavaScript, Git</text>
-    </g>
-    <g style="animation: fadeIn 0.4s ease-in-out 0.70s forwards; opacity: 0;">
-      <text class="text key" x="20" y="185">Focus:</text>
-      <text class="text" x="110" y="185">Web Development & Automation</text>
-    </g>
-    <g style="animation: fadeIn 0.4s ease-in-out 0.80s forwards; opacity: 0;">
-      <text class="text key" x="20" y="209">Status:</text>
-      <text class="text" x="110" y="209">Building cool profile READMEs</text>
-    </g>
+    <text font-family="monospace" font-size="13" fill="#58a6ff" font-weight="bold" x="20" y="65">User:</text>
+    <text font-family="monospace" font-size="13" fill="#c9d1d9" x="110" y="65">Vaibhavgithub21</text>
+    <text font-family="monospace" font-size="13" fill="#58a6ff" font-weight="bold" x="20" y="89">OS:</text>
+    <text font-family="monospace" font-size="13" fill="#c9d1d9" x="110" y="89">GitHub Profile OS x86_64</text>
+    <text font-family="monospace" font-size="13" fill="#58a6ff" font-weight="bold" x="20" y="113">Host:</text>
+    <text font-family="monospace" font-size="13" fill="#c9d1d9" x="110" y="113">Developer Workspace</text>
+    <text font-family="monospace" font-size="13" fill="#58a6ff" font-weight="bold" x="20" y="137">Shell:</text>
+    <text font-family="monospace" font-size="13" fill="#c9d1d9" x="110" y="137">zsh 5.8</text>
+    <text font-family="monospace" font-size="13" fill="#58a6ff" font-weight="bold" x="20" y="161">Stack:</text>
+    <text font-family="monospace" font-size="13" fill="#c9d1d9" x="110" y="161">Python, JavaScript, Git</text>
+    <text font-family="monospace" font-size="13" fill="#58a6ff" font-weight="bold" x="20" y="185">Focus:</text>
+    <text font-family="monospace" font-size="13" fill="#c9d1d9" x="110" y="185">Web Development & Automation</text>
+    <text font-family="monospace" font-size="13" fill="#58a6ff" font-weight="bold" x="20" y="209">Status:</text>
+    <text font-family="monospace" font-size="13" fill="#c9d1d9" x="110" y="209">Building cool profile READMEs</text>
 </svg>
