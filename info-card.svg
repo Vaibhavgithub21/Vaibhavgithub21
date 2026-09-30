@@ -1,20 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 490 250" width="490" height="250">
-  <rect width="100%" height="100%" fill="#0d1117" rx="6" stroke="#30363d" />
+<svg xmlns="http://www.w3.org/2000/svg" width="490" height="250" viewBox="0 0 490 250">
+  <rect width="100%" height="100%" fill="#0d1117" rx="6" stroke="#30363d"/>
   <text font-family="monospace" font-size="13" font-weight="bold" fill="#7ee787" x="20" y="30">vaibhav@github</text>
   <text font-family="monospace" font-size="13" fill="#484f58" x="20" y="42">-----------------------------------</text>
-  
-    <text font-family="monospace" font-size="13" fill="#58a6ff" font-weight="bold" x="20" y="65">User:</text>
-    <text font-family="monospace" font-size="13" fill="#c9d1d9" x="110" y="65">Vaibhavgithub21</text>
-    <text font-family="monospace" font-size="13" fill="#58a6ff" font-weight="bold" x="20" y="89">OS:</text>
-    <text font-family="monospace" font-size="13" fill="#c9d1d9" x="110" y="89">GitHub Profile OS x86_64</text>
-    <text font-family="monospace" font-size="13" fill="#58a6ff" font-weight="bold" x="20" y="113">Host:</text>
-    <text font-family="monospace" font-size="13" fill="#c9d1d9" x="110" y="113">Developer Workspace</text>
-    <text font-family="monospace" font-size="13" fill="#58a6ff" font-weight="bold" x="20" y="137">Shell:</text>
-    <text font-family="monospace" font-size="13" fill="#c9d1d9" x="110" y="137">zsh 5.8</text>
-    <text font-family="monospace" font-size="13" fill="#58a6ff" font-weight="bold" x="20" y="161">Stack:</text>
-    <text font-family="monospace" font-size="13" fill="#c9d1d9" x="110" y="161">Python, JavaScript, Git</text>
-    <text font-family="monospace" font-size="13" fill="#58a6ff" font-weight="bold" x="20" y="185">Focus:</text>
-    <text font-family="monospace" font-size="13" fill="#c9d1d9" x="110" y="185">Web Development & Automation</text>
-    <text font-family="monospace" font-size="13" fill="#58a6ff" font-weight="bold" x="20" y="209">Status:</text>
-    <text font-family="monospace" font-size="13" fill="#c9d1d9" x="110" y="209">Building cool profile READMEs</text>
+  <text font-family="monospace" font-size="13" fill="#58a6ff" font-weight="bold" x="20" y="65">User:</text><text font-family="monospace" font-size="13" fill="#c9d1d9" x="110" y="65">Vaibhavgithub21</text><text font-family="monospace" font-size="13" fill="#58a6ff" font-weight="bold" x="20" y="89">OS:</text><text font-family="monospace" font-size="13" fill="#c9d1d9" x="110" y="89">GitHub Profile OS x86_64</text><text font-family="monospace" font-size="13" fill="#58a6ff" font-weight="bold" x="20" y="113">Host:</text><text font-family="monospace" font-size="13" fill="#c9d1d9" x="110" y="113">Developer Workspace</text><text font-family="monospace" font-size="13" fill="#58a6ff" font-weight="bold" x="20" y="137">Shell:</text><text font-family="monospace" font-size="13" fill="#c9d1d9" x="110" y="137">zsh 5.8</text><text font-family="monospace" font-size="13" fill="#58a6ff" font-weight="bold" x="20" y="161">Stack:</text><text font-family="monospace" font-size="13" fill="#c9d1d9" x="110" y="161">Python, JavaScript, Git</text><text font-family="monospace" font-size="13" fill="#58a6ff" font-weight="bold" x="20" y="185">Focus:</text><text font-family="monospace" font-size="13" fill="#c9d1d9" x="110" y="185">Web Development & Automation</text><text font-family="monospace" font-size="13" fill="#58a6ff" font-weight="bold" x="20" y="209">Status:</text><text font-family="monospace" font-size="13" fill="#c9d1d9" x="110" y="209">Building cool profile READMEs</text>
 </svg>
