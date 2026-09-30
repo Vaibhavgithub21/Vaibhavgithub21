@@ -1,0 +1,55 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 490 300" width="490" height="300">
+  <style>
+    .text { font-family: monospace; font-size: 13px; fill: #c9d1d9; }
+    .key { fill: #58a6ff; font-weight: bold; }
+    .title { fill: #7ee787; font-weight: bold; }
+    .separator { fill: #484f58; }
+    .fade-in {
+      opacity: 0;
+      animation: fadeIn 0.4s ease-in-out forwards;
+    }
+    @keyframes fadeIn {
+      to { opacity: 1; }
+    }
+  </style>
+  <rect width="100%" height="100%" fill="#0d1117" rx="6" stroke="#30363d" />
+  <g transform="translate(20, 30)">
+    <text class="text title" x="0" y="0">vaibhav@github</text>
+    <text class="text separator" x="0" y="12">-----------------------------------</text>
+
+    <g class="fade-in" style="animation-delay: 0.20s;">
+      <text class="text key" x="0" y="35">User:</text>
+      <text class="text" x="90" y="35">Vaibhavgithub21</text>
+    </g>
+
+    <g class="fade-in" style="animation-delay: 0.30s;">
+      <text class="text key" x="0" y="57">OS:</text>
+      <text class="text" x="90" y="57">GitHub Profile OS x86_64</text>
+    </g>
+
+    <g class="fade-in" style="animation-delay: 0.40s;">
+      <text class="text key" x="0" y="79">Host:</text>
+      <text class="text" x="90" y="79">Developer Workspace</text>
+    </g>
+
+    <g class="fade-in" style="animation-delay: 0.50s;">
+      <text class="text key" x="0" y="101">Shell:</text>
+      <text class="text" x="90" y="101">zsh 5.8</text>
+    </g>
+
+    <g class="fade-in" style="animation-delay: 0.60s;">
+      <text class="text key" x="0" y="123">Stack:</text>
+      <text class="text" x="90" y="123">Python, JavaScript, Git</text>
+    </g>
+
+    <g class="fade-in" style="animation-delay: 0.70s;">
+      <text class="text key" x="0" y="145">Focus:</text>
+      <text class="text" x="90" y="145">Web Development & Automation</text>
+    </g>
+
+    <g class="fade-in" style="animation-delay: 0.80s;">
+      <text class="text key" x="0" y="167">Status:</text>
+      <text class="text" x="90" y="167">Building cool profile READMEs</text>
+    </g>
+  </g>
+</svg>

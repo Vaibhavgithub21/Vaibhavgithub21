@@ -1,10 +1,16 @@
-- 👋 Hi, I’m @Vaibhavgithub21
-- 👀 I’m interested in software development
-- 🌱 I’m currently learning python programming
-- 💞️ I’m looking to collaborate on Neural networks project
-- 📫 you can reach me via vaibhavv21vv@gmail.com
+<div align="center">
 
-<!---
-Vaibhavgithub21/Vaibhavgithub21 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<h3><code>vaibhav@github ~ $ ./contributions.sh</code></h3>
+<img src="./contrib-heatmap.svg" width="860" />
+
+<br><br>
+
+<h3><code>vaibhav@github ~ $ whoami</code></h3>
+<table>
+  <tr>
+    <td valign="top"><img src="./avi-ascii.svg" width="370" /></td>
+    <td valign="top"><img src="./info-card.svg" width="490" /></td>
+  </tr>
+</table>
+
+</div>
