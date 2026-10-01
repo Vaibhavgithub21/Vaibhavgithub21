@@ -313,7 +313,7 @@
 
     <rect class="rect-box" x="294" y="28" width="11" height="11" rx="2" fill="#161b22" style="animation-delay: 0.23s;" />
 
-    <rect class="rect-box" x="294" y="42" width="11" height="11" rx="2" fill="#39d353" style="animation-delay: 0.24s;" />
+    <rect class="rect-box" x="294" y="42" width="11" height="11" rx="2" fill="#006d32" style="animation-delay: 0.24s;" />
 
     <rect class="rect-box" x="294" y="56" width="11" height="11" rx="2" fill="#161b22" style="animation-delay: 0.25s;" />
 
@@ -435,7 +435,7 @@
 
     <rect class="rect-box" x="420" y="0" width="11" height="11" rx="2" fill="#161b22" style="animation-delay: 0.30s;" />
 
-    <rect class="rect-box" x="420" y="14" width="11" height="11" rx="2" fill="#161b22" style="animation-delay: 0.31s;" />
+    <rect class="rect-box" x="420" y="14" width="11" height="11" rx="2" fill="#39d353" style="animation-delay: 0.31s;" />
 
     <rect class="rect-box" x="420" y="28" width="11" height="11" rx="2" fill="#161b22" style="animation-delay: 0.32s;" />
 
@@ -748,6 +748,8 @@
     <rect class="rect-box" x="728" y="28" width="11" height="11" rx="2" fill="#161b22" style="animation-delay: 0.54s;" />
 
     <rect class="rect-box" x="728" y="42" width="11" height="11" rx="2" fill="#161b22" style="animation-delay: 0.55s;" />
+
+    <rect class="rect-box" x="728" y="56" width="11" height="11" rx="2" fill="#161b22" style="animation-delay: 0.56s;" />
 
     <text class="text" x="0" y="115">Vaibhavgithub21 Contribution Activity</text>
   </g>
